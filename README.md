@@ -74,6 +74,20 @@ Repeat until Exit
 
 ---
 
+## 🔄 How It Works
+
+1. Program starts and initializes the address book
+2. User is shown a menu with available operations
+3. Based on user input, corresponding function is executed:
+   - Add → stores new contact
+   - Edit → modifies existing contact
+   - Search → retrieves contact details
+   - Delete → removes contact
+4. Data is stored in a file (`contact.txt`)
+5. On selecting "Save & Exit", all data is written to file
+
+---
+
 ## ▶️ How to Run  
 
 ```bash
