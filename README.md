@@ -96,4 +96,4 @@ gcc main.c contact.c populate.c -o address_book
 ```
 ## 📸 Demo
 
-![Original](address_book_demo.bmp)
+![Original](demo.png)
